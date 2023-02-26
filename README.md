@@ -1,8 +1,8 @@
 # BitCoins
- HTML + CSS
+ HTML + CSS
 
-## New HTML5 tags
-### CSS3 media queries and advanced selectors - Dynamic page layouts
+New HTML5 tags\n
+SS3 media queries and advanced selectors - Dynamic page layouts
 Bootstrap & flex  JavaScript
 Objects
 Callbacks, Promises, Async Await
